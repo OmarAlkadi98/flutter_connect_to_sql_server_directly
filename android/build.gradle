@@ -42,6 +42,7 @@ android {
 
     defaultConfig {
         minSdkVersion 16
+        namespace 'com.example.connect_to_sql_server_directly'
     }
 }
 
